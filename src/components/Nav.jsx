@@ -8,17 +8,17 @@ const Nav = () => {
                 <ul className="flex space-x-4">
                     <li>
                         <a href="/" className="hover:text-gray-200">
-                            Home
+                            Inicio
                         </a>
                     </li>
                     <li>
                         <a href="/about" className="hover:text-gray-200">
-                            About
+                            Acerca de
                         </a>
                     </li>
                     <li>
                         <a href="/contact" className="hover:text-gray-200">
-                            Contact
+                            Contáctanos
                         </a>
                     </li>
                 </ul>
