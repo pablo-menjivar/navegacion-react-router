@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 const Nav = () => {
     return (
@@ -24,7 +24,6 @@ const Nav = () => {
                 </ul>
             </div>
         </nav>
-    );
-};
-
-export default Nav;
+    )
+}
+export default Nav
